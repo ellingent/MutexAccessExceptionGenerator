@@ -1,0 +1,204 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "IronPdf/5.0.5.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Drawing",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net40/IronPdf.dll": {}
+        },
+        "runtime": {
+          "lib/net40/IronPdf.dll": {}
+        }
+      },
+      "Lorem.NET/1.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net40/LoremNET.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LoremNET.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "IronPdf/5.0.5.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Drawing",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net40/IronPdf.dll": {}
+        },
+        "runtime": {
+          "lib/net40/IronPdf.dll": {}
+        }
+      },
+      "Lorem.NET/1.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net40/LoremNET.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LoremNET.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "IronPdf/5.0.5.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Drawing",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net40/IronPdf.dll": {}
+        },
+        "runtime": {
+          "lib/net40/IronPdf.dll": {}
+        }
+      },
+      "Lorem.NET/1.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net40/LoremNET.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LoremNET.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "IronPdf/5.0.5.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Drawing",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net40/IronPdf.dll": {}
+        },
+        "runtime": {
+          "lib/net40/IronPdf.dll": {}
+        }
+      },
+      "Lorem.NET/1.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/net40/LoremNET.dll": {}
+        },
+        "runtime": {
+          "lib/net40/LoremNET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IronPdf/5.0.5.2": {
+      "sha512": "jxOc6+GxJhwHbdPbrKwchudyVRrfUMUmu4uAAI+KUD9UOv2h88adisbJSHeiQrepU2xb4GhAc6smi/HIGebghQ==",
+      "type": "package",
+      "path": "ironpdf/5.0.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ironpdf.5.0.5.2.nupkg.sha512",
+        "ironpdf.nuspec",
+        "lib/net40/IronPdf.XML",
+        "lib/net40/IronPdf.dll",
+        "lib/net40/IronPdf.pdb",
+        "lib/netstandard2.0/IronPdf.dll",
+        "lib/netstandard2.0/IronPdf.pdb",
+        "readme.txt"
+      ]
+    },
+    "Lorem.NET/1.0.6": {
+      "sha512": "wJx5wyRd1ZD2aODOi8ZkLRSiAzutW5bTClq1h4mYlbPQaEx5WhxzgbuLJF/pXowHXWA1VzKx/SIA3C1JREL2yg==",
+      "type": "package",
+      "path": "lorem.net/1.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/LoremNET.dll",
+        "lorem.net.1.0.6.nupkg.sha512",
+        "lorem.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "IronPdf >= 5.0.5.2",
+      "Lorem.NET >= 1.0.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tylere\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tylere\\source\\repos\\SampleReportGeneration\\SampleReportGeneration\\SampleReportGeneration.csproj",
+      "projectName": "SampleReportGeneration",
+      "projectPath": "C:\\Users\\tylere\\source\\repos\\SampleReportGeneration\\SampleReportGeneration\\SampleReportGeneration.csproj",
+      "packagesPath": "C:\\Users\\tylere\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tylere\\source\\repos\\SampleReportGeneration\\SampleReportGeneration\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "\\\\IIT-MIL01\\user_data\\users\\redirection\\tylere\\Application Data\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.grapecity.com/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "IronPdf": {
+            "target": "Package",
+            "version": "[5.0.5.2, )"
+          },
+          "Lorem.NET": {
+            "target": "Package",
+            "version": "[1.0.6, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

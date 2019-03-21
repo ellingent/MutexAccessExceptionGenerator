@@ -1,0 +1,10 @@
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Debug\SampleReportGeneration.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Debug\SampleReportGeneration.pdb
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Debug\IronPdf.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Debug\IronPdf.pdb
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Debug\LoremNET.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Debug\SampleReportGeneration.csprojAssemblyReference.cache
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Debug\SampleReportGeneration.csproj.CoreCompileInputs.cache
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Debug\SampleReportGeneration.csproj.CopyComplete
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Debug\SampleReportGeneration.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Debug\SampleReportGeneration.pdb

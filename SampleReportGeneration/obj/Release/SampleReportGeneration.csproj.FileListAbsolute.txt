@@ -1,0 +1,12 @@
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Release\SampleReportGeneration.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Release\SampleReportGeneration.pdb
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Release\IronPdf.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Release\IronPdf.pdb
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\bin\Release\LoremNET.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Release\SampleReportGeneration.csprojAssemblyReference.cache
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Release\SampleReportGeneration.Properties.Resources.resources
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Release\SampleReportGeneration.csproj.GenerateResource.cache
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Release\SampleReportGeneration.csproj.CoreCompileInputs.cache
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Release\SampleReportGeneration.csproj.CopyComplete
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Release\SampleReportGeneration.dll
+C:\Users\tylere\source\repos\SampleReportGeneration\SampleReportGeneration\obj\Release\SampleReportGeneration.pdb
